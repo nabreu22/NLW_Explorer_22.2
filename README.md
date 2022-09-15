@@ -8,15 +8,10 @@
   <img src="[https://github.com](https://img.shields.io/github/forks/)/nabreu22" alt="">
 
   <img src="https://github.com/nabreu22/NLW_Explorer_22.2/blob/main/assets/Screenshot_1.png" alt="">
-  
-
 </p>
 
 <br>
 
-<p align="center">
-  <img alt="NLW eSports" src="">
-</p>
 
 ## 🚀 Technologies
 
