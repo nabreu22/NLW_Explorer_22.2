@@ -7,7 +7,7 @@
 <p align="center">
   <img src="[https://github.com](https://img.shields.io/github/forks/)/nabreu22" alt="">
 
-  <img src="" alt="">
+  <img src="https://github.com/nabreu22/NLW_Explorer_22.2/blob/main/assets/Screenshot_1.png" alt="">
   
 
 </p>
@@ -34,4 +34,6 @@ This project was developed during the Next Level Week(NLW by rocketseat). The ma
 If you want to check out the layout, follow [this link](https://www.figma.com/community/file/1150897317533332617)which will takes you to Figma (https://www.figma.com/community/file/1150897317533332617).
 
 ---
+
+
 
