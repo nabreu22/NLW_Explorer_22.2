@@ -1,4 +1,3 @@
-# NLW_Explorer_22.2
 <p align="center">
   <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -6,9 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="" alt="">
+  <img src="[https://github.com](https://img.shields.io/github/forks/)/nabreu22" alt="">
 
   <img src="" alt="">
+  ![image](https://user-images.githubusercontent.com/72528383/190435904-0b9f5c33-8f75-4c23-9d13-9f6485a554c4.png)
+
 
 </p>
 
