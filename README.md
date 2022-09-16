@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
+# NLW eSports
 
 <p align="center">
   <img src="[https://github.com](https://img.shields.io/github/forks/)/nabreu22" alt="">
@@ -12,6 +8,9 @@
 
 <br>
 
+## 💻 Project
+
+This project was developed during the event Next Level Week(NLW) by Rocketseat. The main idea was to make a link aggregator where you can list all your favorites games and streamers.
 
 ## 🚀 Technologies
 
@@ -19,14 +18,16 @@ This project was developed with the following technologies
 
 - HTML
 - CSS
+- Git and Github
 
-## 💻 Project
+## :link: Link
 
-This project was developed during the Next Level Week(NLW by rocketseat). The main idea was to make a link aggregator where you can list all your favorites games and streamers.
+[Clique here](https://nabreu22.github.io/nlw.esports/) to see the project.
 
-## 🔖 Layout
+## :email: Contact
 
-If you want to check out the layout, follow [this link](https://www.figma.com/community/file/1150897317533332617)which will takes you to Figma (https://www.figma.com/community/file/1150897317533332617).
+n.abreu.s22@gmail.com
+
 
 ---
 
